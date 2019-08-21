@@ -1,0 +1,10 @@
+1: Deep Pan Pepperoni
+2: Thin and Crispy Vegetable
+3: Thin and Crispy Ham and Mushroom
+4: Deep Pan Ham and Mushroom
+5: Thin and Crispy Pepperoni
+6: Stuffed Crust Pepperoni
+7: Stuffed Crust Pepperoni
+8: Thin and Crispy Pepperoni
+9: Thin and Crispy Pepperoni
+10: Deep Pan Ham and Mushroom
